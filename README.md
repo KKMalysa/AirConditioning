@@ -17,3 +17,5 @@ o odpowiednią wartość w zależności od zastosowanego klimatyzatora. Załóż
 powinna ona być utrzymywana na stałym poziomie.
 
 Zagadnienia przydatne do rozwiązania: definiowanie klas, metod i obiektów, polimorfizm, tablice, pętle, instrukcje sterujące.
+
+10.04.2021 :analiza pod względem rozbudowy i zastowosawania wzorców projektowych
