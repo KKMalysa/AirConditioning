@@ -1,6 +1,6 @@
 package AirConditioner;
 
-public class BassicAirConditioner implements AirConditioner {
+public class BasicAirConditioner implements AirConditioner {
     private static final double COOL_TEMPERATURE = 1;
 
     @Override
@@ -10,6 +10,6 @@ public class BassicAirConditioner implements AirConditioner {
 
     @Override
     public String toString() {
-        return "BassicAirConditioner{}";
+        return "BasicAirConditioner{}";
     }
 }

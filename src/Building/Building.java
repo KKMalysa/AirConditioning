@@ -28,7 +28,7 @@ public class Building {
         Random random = new Random();
         double value = random.nextDouble();
         if(value < 0.5)
-            return new BassicAirConditioner();
+            return new BasicAirConditioner();
         else
             return new ProAirConditioner();
     }
